@@ -1,7 +1,2 @@
 include ':app'
 rootProject.name='WMSPickingClient'
-dependencyResolutionManagement{
-    repositories{
-maven { url "https://jitpack.io" }
-    }
-    }
